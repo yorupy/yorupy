@@ -1,6 +1,5 @@
 <div align="center">
-<img src="./ezgif-3c4c37974c3c8c.gif" align="right" alt="Alice monster from Ragnarok Online" width="113px" height="115px">
-<img src="./output-onlinegiftools.gif" align="left" alt="Alice monster from Ragnarok Online" width="113px" height="115px">
+
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
@@ -8,6 +7,8 @@
     </summary>
   </ul>
 </div>
+<img src="./ezgif-3c4c37974c3c8c.gif" align="right" alt="Alice monster from Ragnarok Online" width="113px" height="115px">
+<img src="./output-onlinegiftools.gif" align="left" alt="Alice monster from Ragnarok Online" width="113px" height="115px">
 <p align="center">I'm currently learning web development through The Odin Project.<br> I like anime, digital art, japanese music and cool websites!</p>
 <strong><a href="https://discordapp.com/users/1339300757509373954">Discord</a></strong> |
 <strong><a href="https://x.com/yorupy_">Twitter</a></strong>
